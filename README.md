@@ -7,7 +7,4 @@ O projeto consiste em um Dashboard para analise de dados e controle de vendas e 
 Link: https://dsvendas-akamatu.netlify.app/
 
 <br/>
-<br/>
-<br/>
-
 <h1 align="center">🎉 Projeto Finalizado 🎉</h1>
